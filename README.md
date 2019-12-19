@@ -1,3 +1,9 @@
+# NOTE
+This fork was created for sailthru/sailthru-ruby-client#73, which was reworked in sailthru/sailthru-ruby-client#77 and released in v4.2.0, so we don't need this fork is not active anymore.
+
+See https://github.com/sellect/sellect/pull/3006 for more
+
+
 # sailthru-ruby-client
 
 For installation instructions, documentation, and examples please visit:
